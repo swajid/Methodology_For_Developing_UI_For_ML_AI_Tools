@@ -1,4 +1,6 @@
-# Methodology for Developing UI for ML and AI Tools in Biomedical and Health Informatics In The Most Updated And The Correct Way
+# Methodology for Developing UI for ML and AI Tools in Biomedical and Health Informatics In The Most Updated And The Correct Way For 2026 And Onward
+
+![img](how-to-design-modern-health-AI-ML-UI.png)
 
 This repository documents a modern, production-oriented methodology for designing user interfaces for machine learning and AI systems in biomedical research, clinical decision support, imaging, pathology, population health, and broader health informatics.
 
@@ -317,3 +319,5 @@ The modern methodology is straightforward:
 - treat uncertainty, provenance, auditability, and reviewer action as first-class UI features
 
 That is how you build biomedical AI interfaces that are actually usable in 2026.
+
+Done. Archived.
